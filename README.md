@@ -1,2 +1,2 @@
 # SMTC-repo
-My first repository for practice
+My first repository for practice.
