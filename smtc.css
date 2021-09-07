@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 body {
+    min-width: 360px;
     background-color: blue;
     color: white;
     font-family: 'Open Sans', sans-serif;
@@ -52,10 +53,35 @@ nav ul li a strong {
 }
 
 #nav-bar {
+    
+}
+#nav-bar header {
+    font-weight: 900;
+    font-size: 40px;
+}
+#nav-bar ul {
 
+}
+#nav-bar ul li {
+    list-style: none;
+}
+#nav-bar ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 28px;
 }
 
 
 #main-section {
 
+}
+#main-section section {
+    padding: 20px 0px;
+}
+#main-section header {
+    font-size: 30px;
+    font-weight: 700;
+}
+#main-section p {
+    font-size: 20px;
 }
